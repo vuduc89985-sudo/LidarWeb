@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LidarWebGateway\\x64\\Release\\visual_ack_protocol.obj",
+            "outputs": [
+                "LidarWebGateway\\x64\\Release\\visual_ack_protocol.h.obj.dt.module.json",
+                "LidarWebGateway\\x64\\Release\\visual_ack_protocol.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

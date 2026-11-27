@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LidarWebGateway\\x64\\Release\\license_manager.obj",
+            "outputs": [
+                "LidarWebGateway\\x64\\Release\\license_manager.h.obj.dt.module.json",
+                "LidarWebGateway\\x64\\Release\\license_manager.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

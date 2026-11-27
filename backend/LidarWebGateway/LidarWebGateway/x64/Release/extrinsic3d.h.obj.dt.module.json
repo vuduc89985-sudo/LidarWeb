@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LidarWebGateway\\x64\\Release\\extrinsic3d.obj",
+            "outputs": [
+                "LidarWebGateway\\x64\\Release\\extrinsic3d.h.obj.dt.module.json",
+                "LidarWebGateway\\x64\\Release\\extrinsic3d.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

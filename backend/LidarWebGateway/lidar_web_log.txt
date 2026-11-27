@@ -1,0 +1,16 @@
+
+=== LiDAR WEB GATEWAY v3 ===
+[CFG] Nap lidar_config.cfg: 4 LiDAR
+[CFG] Nap extrinsics.cfg
+[OK] LiDAR 192.168.201.15:1112 (TR70_Real1)
+[2026-11-17 10:32:20.111] TR70_Real1: connecting...
+[OK] LiDAR 192.168.201.16:1112 (TR70_Real2)
+[2026-11-17 10:32:20.111] TR70_Real2: connecting...
+[OK] LiDAR 192.168.201.17:1112 (TR70_Real3)
+[2026-11-17 10:32:20.111] TR70_Real3: connecting...
+[OK] LiDAR 192.168.201.18:1112 (TR70_Real4)
+[2026-11-17 10:32:20.112] TR70_Real4: connecting...
+WebSocket listening ws://0.0.0.0:9001
+[RAW_REC] Bat dau Circular Raw Recorder (24/7, xoay file moi 1 gio, luu 7 ngay).
+Press q + Enter to quit.
+[RAW_REC] Mo file raw 24/7 moi: recordings/raw/raw_20261117_10.bin
